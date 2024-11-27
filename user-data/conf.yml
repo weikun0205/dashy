@@ -5,9 +5,7 @@ pageInfo:
   description: 欢迎来到Vic·Wei的导航网站🎉!
   navLinks:
   - title: GitHub
-    path: https://github.com/Lissy93/dashy
-  - title: Documentation
-    path: https://dashy.to/docs
+    path: https://github.com/weikun0205/dashy
 
 # Optional app settings and configuration
 appConfig:
@@ -44,4 +42,17 @@ sections:
     description: Get help with Dashy, raise a bug, or get in contact
     url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
     icon: far fa-hands-helping
+    
+- name: 我的网站
+  icon: fas fa-rocket 
+  items:
+  - title: 博客
+    description: 我的博客
+    icon: far fa-grin-hearts
+    url: https://blog.weikun.fun/
+  - title: 白板画图
+    description: 画图工具，支持协作
+    url: https://draw.weikun.fun/
+    icon: fas fa-wrench
+  
   
